@@ -14,4 +14,4 @@
 
 define('UC_APP_ID', 1); //应用ID
 define('UC_API_TYPE', 'Model'); //可选值 Model / Service
-define('UC_AUTH_KEY', 'aFQ^f@5op;(_j-#67`3~{S]>ikJMU0.xmDH/&2W?'); //加密KEY 
+define('UC_AUTH_KEY', 'pYO5CEA.#&gVwhHf3P<xTna}]IBN1D>|2[ijzeX`'); //加密KEY 
